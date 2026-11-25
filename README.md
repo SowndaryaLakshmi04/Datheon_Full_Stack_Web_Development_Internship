@@ -1,4 +1,4 @@
-# Datheon Internship Projects
+# Datheon Full Stack Web Development Internship Projects
 
 A comprehensive collection of web development projects completed as part of the **Datheon Internship Program**. This repository brings together three practical projects focused on responsive web design, interactive application development, client-side data persistence, and third-party API integration.
 
